@@ -1,0 +1,24 @@
+{
+  "name": "mediamelon-js-videojs-sdk",
+  "version": "1.3.0",
+  "description": "MediaMelon JS VideoJS Player SDK",
+  "main": "mmsmartstreaming_videojsplayer.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MediamelonSDK/mm-js-sdk-videojs.git"
+  },
+  "author": "mediamelon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MediamelonSDK/mm-js-sdk-videojs/issues"
+  },
+  "homepage": "https://github.com/MediamelonSDK/mm-js-sdk-videojs#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.28.0",
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0"
+  }
+}
